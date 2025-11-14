@@ -3,7 +3,7 @@
 
 ## Data Analyst | Excel & Power BI Specialist | SQL & Python Learner
 
-## 📌Table of Contents
+## Table of Contents
 - [🔧 Skills](#-skills)
 - [💼 Experience](#-experience)
 - [🎓 Education](#-education)
