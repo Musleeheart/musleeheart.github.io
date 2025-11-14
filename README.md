@@ -26,7 +26,7 @@
 - More projects coming soon!
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/muslihat-bello-94577620b)  
+- [LinkedIn](www.linkedin.com/in/muslihat-bello-9457762b0)  
 - bello.muslihat@gmail.com
 
 ## 🏅 Certificates
