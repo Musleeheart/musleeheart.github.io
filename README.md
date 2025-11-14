@@ -22,7 +22,7 @@
   Conducted final year research project and analyzed data using SPSS.
 
 ## Featured Projects
-- [Financial Crime Dashboard](https://github.com/musleeheart/financial-crime-dashboard)  
+- [Financial Crime Dashboard](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)  
 - More projects coming soon!
 
 ## Connect with Me
@@ -40,5 +40,5 @@
   Hands-on training in Excel, Power BI, SQL, and Python.
 
 - Introduction to Microsoft excel with Simplilearn | Skillup
-  [Certificate](https://drive.google.com/file/d/1S3UTSbiqTeLAp7ZrkoRgjBA8dMYDC5fp/view?usp=drive_link) 
+  [Certificate](https://drive.google.com/file/d/1S3UTSbiqTeLAp7ZrkoRgjBA8dMYDC5fp/view?usp=drive_link)  
   Learnt and understood excel basics.
