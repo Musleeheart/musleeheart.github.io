@@ -1,7 +1,7 @@
 # musleeheart.github.io
 
 
-**Data Analyst | Excel & Power BI Specialist | SQL & Python Learner**
+## Data Analyst | Excel & Power BI Specialist | SQL & Python Learner
 
 #### Welcome to my portfolio! I’m passionate about transforming raw data into actionable insights that drive smarter decisions. My background in science and hands-on experience with analytics tools allow me to approach problems with both technical rigor and creativity.
 
