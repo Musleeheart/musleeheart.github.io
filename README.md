@@ -3,31 +3,35 @@
 
 ## Data Analyst | Excel & Power BI Specialist | SQL & Python Learner
 
+## 📌Table of Contents
+- [🔧 Skills](#-skills)
+- [💼 Experience](#-experience)
+- [🎓 Education](#-education)
+- [📂 Featured Projects](#-featured-projects)
+- [🏅 Certificates](#-certificates)
+- [📬 Contacts](#-contacts)
+
 #### Welcome to my portfolio! I’m passionate about transforming raw data into actionable insights that drive smarter decisions. My background in science and hands-on experience with analytics tools allow me to approach problems with both technical rigor and creativity.
 
-## Skills
+## 🔧 Skills
 - Excel (Power Query, Pivot Tables, Dashboards)
 - Power BI (Interactive reports & visualizations)
 - SQL (Data querying & management)
 - Python (Analytics & automation)
 - Tableau (Data visualization)
 
-## Experience
+## 💼 Experience
 - **Data Analyst Intern – Cognifyz Technologies (Jan–Feb 2025)**  
   Built Power BI dashboards and analyzed datasets to support internal reporting and insights.
   [Certificate](https://drive.google.com/file/d/1RrhyTYdfSUhGEYxTA_Hj7t5RDdUvX5FP/view?usp=drive_link)
 
-## Education
+## 🎓 Education
 - **BSc Human Physiology – Ahmadu Bello University, Zaria (2018–2024)**  
   Conducted final year research project and analyzed data using SPSS.
 
-## Featured Projects
+## 📂 Featured Projects
 - [Financial Crime Dashboard](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)  
 - More projects coming soon!
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/muslihatbello)  
-- bello.muslihat@gmail.com
 
 ## 🏅 Certificates
 
@@ -42,3 +46,9 @@
 - Introduction to Microsoft excel with Simplilearn | Skillup
   [Certificate](https://drive.google.com/file/d/1S3UTSbiqTeLAp7ZrkoRgjBA8dMYDC5fp/view?usp=drive_link)  
   Learnt and understood excel basics.
+
+## 📬 Contacts
+- [LinkedIn](https://www.linkedin.com/in/muslihatbello)  
+- bello.muslihat@gmail.com
+- 07081817384
+
