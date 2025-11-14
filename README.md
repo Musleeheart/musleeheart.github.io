@@ -30,7 +30,7 @@
   Conducted final year research project and analyzed data using SPSS.
 
 ## 📂 Featured Projects
-- [Financial Crime Dashboard](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)  
+- [Data Cleaning, Merging and Visualization of Financial Crime Data In Excel](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)  
 - More projects coming soon!
 
 ## 🏅 Certificates
