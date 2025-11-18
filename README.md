@@ -13,7 +13,8 @@
 - [Contacts](#-contacts)
 
 ## About me
-#### Welcome to my portfolio! I’m passionate about transforming raw data into actionable insights that drive smarter decisions. My background in science and hands-on experience with analytics tools allow me to approach problems with both technical rigor and creativity.
+#### Hello, my name is Muslihat Bello. I’m a data analyst with a background in human physiology, and I’m passionate about using analytics to improve public health. I’ve worked with tools like Power BI, SQL, and Excel to transform raw datasets into meaningful insights that support decision-making.
+#### Currently, I’m expanding my skills in Python and data visualization, and I’m excited about opportunities where I can merge my analytical and creative sides to make a lasting impact in the health and development sector.
 
 ## Skills
 - Excel (Power Query, Pivot Tables, Dashboards)
