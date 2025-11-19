@@ -4,13 +4,13 @@
 ## Data Analyst | Excel & Power BI Specialist | SQL & Python Learner
 
 ## Table of Contents
-- [About Me](#-about-me)
-- [Skills](#-skills)
-- [Experience](#-experience)
-- [Education](#-education)
-- [Featured Projects](#-featured-projects)
-- [Certificates](#-certificates)
-- [Contacts](#-contacts)
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
+- [Featured Projects](#featured-projects)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## About me
 #### Hello, my name is Muslihat Bello. I’m a data analyst with a background in human physiology, and I’m passionate about using analytics to improve public health. I’ve worked with tools like Power BI, SQL, and Excel to transform raw datasets into meaningful insights that support decision-making.
@@ -33,8 +33,13 @@
   Conducted final year research project and analyzed data using SPSS.
 
 ## Featured Projects
-- [Data Cleaning, Merging and Visualization of Financial Crime Data In Excel](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)  
-- More projects coming soon!
+- [Data Cleaning, Merging and Visualization of Financial Crime Data In Excel](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)
+  
+![dashboard](https://github.com/user-attachments/assets/29aca735-7dbf-47d2-8268-b9340fb27f00)
+
+- [Power BI Healthcare Analytics](https://github.com/Musleeheart/Healthcare-Analytics)
+  
+<img width="506" height="297" alt="dashboard" src="https://github.com/user-attachments/assets/1b3f4629-dc85-4478-bbc3-ebdff7a2d927" />
 
 ## Certificates
 
