@@ -44,10 +44,10 @@
 ## Certifications
 
 - Data Analysis and Visualisation - 3MTT Nigeria & NITDA Nigeria
-  [Certificate](https://drive.google.com/file/d/1YNZPg_OLlYp2vgImV_vJak1Qhx942Kzz/view?usp=drive_link)
-  Data Analysis using excel, Power BI, SQL and Python.
-  Data Visualization with Power BI, Excel and Python
-  Data Preparation, Querying and Management with SQL
+  [Certificate](https://drive.google.com/file/d/1YNZPg_OLlYp2vgImV_vJak1Qhx942Kzz/view?usp=drive_link)  
+  Data Analysis using excel, Power BI, SQL and Python.  
+  Data Visualization with Power BI, Excel and Python.  
+  Data Preparation, Querying and Management with SQL.  
   
 - Data Analytical Training – Arewaladies4Tech & Data Science Nigeria
   [Certificate](https://drive.google.com/file/d/1RiNAHkpda5hcMDIrnSD3lXB3hGMRK4O7/view?usp=drive_link)  
