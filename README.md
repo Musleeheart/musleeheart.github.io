@@ -9,7 +9,7 @@
 - [Experience](#experience)
 - [Education](#education)
 - [Featured Projects](#featured-projects)
-- [Certificates](#certificates)
+- [Certifications](#certifications)
 - [Contacts](#contacts)
 
 ## About me
@@ -41,9 +41,15 @@
   
 <img width="506" height="297" alt="dashboard" src="https://github.com/user-attachments/assets/1b3f4629-dc85-4478-bbc3-ebdff7a2d927" />
 
-## Certificates
+## Certifications
 
-- Data Analytical Training – ArawaIdeas4Tech & Data Science Nigeria
+- Data Analysis and Visualisation - 3MTT Nigeria & NITDA Nigeria
+  [Certificate](https://drive.google.com/file/d/1YNZPg_OLlYp2vgImV_vJak1Qhx942Kzz/view?usp=drive_link)
+  Data Analysis using excel, Power BI, SQL and Python.
+  Data Visualization with Power BI, Excel and Python
+  Data Preparation, Querying and Management with SQL
+  
+- Data Analytical Training – Arewaladies4Tech & Data Science Nigeria
   [Certificate](https://drive.google.com/file/d/1RiNAHkpda5hcMDIrnSD3lXB3hGMRK4O7/view?usp=drive_link)  
   Hands-on training in Excel, Power BI, SQL, and Python.
 
