@@ -1,7 +1,7 @@
 # musleeheart.github.io
 
 
-## Data Analyst | Excel & Power BI Specialist | SQL & Python Learner
+## Data Analyst
 
 ## Table of Contents
 - [About Me](#about-me)
