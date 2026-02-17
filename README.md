@@ -33,6 +33,11 @@
   Conducted final year research project and analyzed data using SPSS.
 
 ## Featured Projects
+- [Employee Insights and Attrition Analysis](https://github.com/Musleeheart/Employee-Insights-and-Attrition-Analysis)
+  
+  ![WhatsApp Image 2026-02-16 at 8 55 03 PM](https://github.com/user-attachments/assets/10ba58cc-a73b-4a56-aa22-73038fb74fde)
+
+
 - [Data Cleaning, Merging and Visualization of Financial Crime Data In Excel](https://github.com/Musleeheart/Data-Cleaning-Merging-Visualisation-of-Financial-Crime-Data-2012-2024-)
   
 ![dashboard](https://github.com/user-attachments/assets/29aca735-7dbf-47d2-8268-b9340fb27f00)
