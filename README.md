@@ -24,6 +24,11 @@
 - Tableau (Data visualization)
 
 ## Experience
+- **Graduate Trainee - National Primary Healthcare Development Agency - NPHCDA (August 2025- Present)**
+    - Data entry, cleaning and validation.
+    - Supported data collection and management to strengthen the country’s cold chain equipment and health commodities inventory.
+    - Participated in the 2025 integrated campaign for measeles rubella, polio, HPV, RI vaccines & neglected tropical diseases intervention.
+
 - **Data Analyst Intern – Cognifyz Technologies (Jan–Feb 2025)**  
   Built Power BI dashboards and analyzed datasets to support internal reporting and insights.
   [Certificate](https://drive.google.com/file/d/1RrhyTYdfSUhGEYxTA_Hj7t5RDdUvX5FP/view?usp=drive_link)
