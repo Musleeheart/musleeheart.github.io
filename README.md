@@ -63,18 +63,15 @@
 
 ## Certificates
 
+- Advanced Data Analytics & Visualisation - NITDA x 3MTT x DSN (Deeptech Program)
+  [Certificate](https://drive.google.com/file/d/1jJWCzZv7lVuJ2prkEw2ECKFft6knOavW/view?usp=drivesdk)
+
 - Data Analysis and Visualisation - 3MTT Nigeria & NITDA Nigeria
   [Certificate](https://drive.google.com/file/d/1YNZPg_OLlYp2vgImV_vJak1Qhx942Kzz/view?usp=drive_link)  
-  Data Analysis using excel, Power BI, SQL and Python.  
-  Data Visualization with Power BI, Excel and Python.  
-  Data Preparation, Querying and Management with SQL.  
   
 - Data Analytical Training – Arewaladies4Tech & Data Science Nigeria
   [Certificate](https://drive.google.com/file/d/1RiNAHkpda5hcMDIrnSD3lXB3hGMRK4O7/view?usp=drive_link)  
   Hands-on training in Excel, Power BI, SQL, and Python.
-
-- Career Essentials in Generative AI - Microsoft x Linkedin
-  [Certificate](https://drive.google.com/file/d/1RlRHTQRtG7j8zI6JM7lc-9wG9bfVk2X4/view?usp=drive_link)  
 
 - Introduction to Microsoft excel with Simplilearn | Skillup
   [Certificate](https://drive.google.com/file/d/1S3UTSbiqTeLAp7ZrkoRgjBA8dMYDC5fp/view?usp=drive_link)  
