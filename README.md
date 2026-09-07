@@ -9,7 +9,7 @@
 - [Experience](#experience)
 - [Education](#education)
 - [Featured Projects](#featured-projects)
-- [Certifications](#certifications)
+- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## About me
@@ -17,20 +17,22 @@
 #### Currently, I’m expanding my skills in Python and data visualization, and I’m excited about opportunities where I can merge my analytical and creative sides to make a lasting impact in the health and development sector.
 
 ## Skills
-- Excel (Power Query, Pivot Tables, Dashboards)
+- Spreadsheets- Excel & Google sheets (Power Query, Pivot Tables, Dashboards)
 - Power BI (Interactive reports & visualizations)
 - SQL (Data querying & management)
 - Python (Analytics & automation)
-- Tableau (Data visualization)
 
 ## Experience
-- **Graduate Trainee - National Primary Healthcare Development Agency - NPHCDA (August 2025- Present)**
-    - Data entry, cleaning and validation.
-    - Supported data collection and management to strengthen the country’s cold chain equipment and health commodities inventory.
-    - Participated in the 2025 integrated campaign for measeles rubella, polio, HPV, RI vaccines & neglected tropical diseases intervention.
-
+- **Data Analyst (NYSC)- National Primary Healthcare Development Agency - NPHCDA (August 2025- May 2026)**
+    - Data Entry, utilizing OpenLMIS
+    - Cleaned, standardized, and validated cold chain inventory data against the internal database, identifying and            resolving discrepancies which improved overall data integrity by 95%.
+    - Collaborated with diverse stakeholders (SCCOs & LCCOs) to ensure accurate data collection and effective reporting        for improved program outcomes.
+    - Documented recurring data quality challenges and communicated findings to supervisors, forming the basis for             process improvement
+   
 - **Data Analyst Intern – Cognifyz Technologies (Jan–Feb 2025)**  
-  Built Power BI dashboards and analyzed datasets to support internal reporting and insights.
+  - Used Power BI and DAX to analyse and visualise datasets.
+  - Turned complex, scattered information into a clear, organised structure that aligns with business goals with data modelling
+  - Interpreted insights to support strategic decision-making.
   [Certificate](https://drive.google.com/file/d/1RrhyTYdfSUhGEYxTA_Hj7t5RDdUvX5FP/view?usp=drive_link)
 
 ## Education
@@ -51,7 +53,7 @@
   
 <img width="506" height="297" alt="dashboard" src="https://github.com/user-attachments/assets/1b3f4629-dc85-4478-bbc3-ebdff7a2d927" />
 
-## Certifications
+## Certificates
 
 - Data Analysis and Visualisation - 3MTT Nigeria & NITDA Nigeria
   [Certificate](https://drive.google.com/file/d/1YNZPg_OLlYp2vgImV_vJak1Qhx942Kzz/view?usp=drive_link)  
