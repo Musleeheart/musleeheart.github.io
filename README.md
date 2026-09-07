@@ -44,6 +44,7 @@
 
 ## Featured Projects
 - [Advanced Data Modeling for Analytics: Retail & E‑commerce Case Study](https://github.com/Musleeheart/Modeling)
+  
   <img width="550" height="330" alt="Screenshot 2026-04-17 102107" src="https://github.com/user-attachments/assets/4dbcb7b1-9c56-4899-926a-a15a6910ab15" />
   
   
